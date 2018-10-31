@@ -1,0 +1,1 @@
+http://localhost/wordpress/wp-json/dashboard/test/v1/test
